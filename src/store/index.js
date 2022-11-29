@@ -15,11 +15,7 @@ export default new Vuex.Store({
     gameCosts: 5,
     avaliableGames: 0,
     gamesToBuy: 0,
-    buySumm: 0,
-    active: false,
-    animations: ['../assets/rich_full_chest.png',
-  '../assets/animation/rich.gif'
-]
+    buySumm: 0
   },
   getters: {
   },
