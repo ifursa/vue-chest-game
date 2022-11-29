@@ -1,4 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath:'/vue-chest-game/dist/'
+  productionSourceMap: false,  
+  publicPath:'/vue-chest-game/'
 })
