@@ -25,8 +25,8 @@
     height: 330px;
 }
 .fire_point{
-  top:7vh;
-  left: 4.3vw;
+  top:22%;
+  left: 29%;
   width: 60px;
   height: 60px;
   position:absolute;
