@@ -151,13 +151,13 @@ button {
 
 .controls {
     position: relative;
-    bottom: 2.5vh;
-    left: 1vw;
+    bottom: 50%;
+    left: 150%;
 }
 
 #currency {
     color: #bab6b6;
     position: absolute;
-    left:10.5vw;
+    left: 87%;
 }
 </style>
